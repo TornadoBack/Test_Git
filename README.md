@@ -9,7 +9,7 @@ My stupid boss still prefers SVN.
 
 Creating a new branch is quick AND simple.
 
-dev branch
+dev branch is working
 
 fix bug 101
 
